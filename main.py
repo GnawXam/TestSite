@@ -2,8 +2,8 @@
 # say hello to the world
 
 def say_hello():
-    print "hello, world"
-    print "this is a test"
+    print "HELLO"
+    print "We will say this many times"
 
 
 for i in range(3):
