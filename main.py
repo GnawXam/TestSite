@@ -4,11 +4,12 @@
 def say_hello(num):
     print "=====STARTING====="
     for i in range(num):
-        print "this is a super message", i
-        
+        print "this is loop", i
+        print "hello"
+        print "it's me"
 
-for i in range(2):
-    say_hello(3)
+for i in range(3):
+    say_hello(4)
 
 # history
 # we add this history
