@@ -5,6 +5,7 @@ def say_hello(num):
     for i in range(num):
         print "this is loop", i
         print "hello"
+        print "it's me"
 
 for i in range(3):
     say_hello(4)
