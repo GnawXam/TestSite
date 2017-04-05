@@ -2,11 +2,12 @@
 # say hello to the world
 
 def say_hello():
-    print "hello,,,,"
+    print "hello, world"
+    print "this is a test"
 
-say_hello()
-say_hello()
-say_hello()
+
+for i in range(3):
+    say_hello()
 
 # history
 # we add this history
