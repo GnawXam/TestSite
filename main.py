@@ -4,6 +4,7 @@
 def say_hello(num):
     for i in range(num):
         print "this is a modified message", i
+        print "this is a different message", i
 
 
 for i in range(3):
